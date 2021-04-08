@@ -1,0 +1,14 @@
+.logo img{
+    width: 25%;
+    padding: 1% 2% 1% 5%;
+}
+
+.footer{
+background-color: #424242;
+text-align: center;
+color: white;
+position: absolute;
+width: 100%;
+bottom: 0;
+} 
+
